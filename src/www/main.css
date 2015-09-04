@@ -1,0 +1,13 @@
+html {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+body {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
